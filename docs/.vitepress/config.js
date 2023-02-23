@@ -3,6 +3,7 @@ import { defineConfig } from "vitepress";
 const config = {
   title: "zy的日常笔记",
   description: "zy的日常笔记",
+  outDir: "../public",
   appearance: true,
   lastUpdated: true,
   markdown: {
