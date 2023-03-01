@@ -4,7 +4,7 @@ const config = {
   title: "zy的日常笔记",
   description: "zy的日常笔记",
   base: "/zyblog/",
-  outDir: "../root",
+  // outDir: "../root",
   appearance: true,
   lastUpdated: true,
   markdown: {
