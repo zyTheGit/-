@@ -3,8 +3,8 @@ import { defineConfig } from "vitepress";
 const config = {
   title: "zy的日常笔记",
   description: "zy的日常笔记",
-  base: process.argv[2] === "dev" ? "/" : "/blog23/",
-  srcDir: "./docs",
+  base: "/blog23/",
+  // srcDir: "./docs",
   // outDir: "../root",
   appearance: true,
   lastUpdated: true,
